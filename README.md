@@ -1,3 +1,5 @@
+32X32 SRAM ARRAY DESIGN (1kb)
+
 A 6T SRAM cell is a widely used memory cell configuration in digital integrated circuits, offering high-speed performance and robust data stability. The "6T" designation refers to the six transistors that make up each cell: four for the core latch that stores a bit of data and two additional access transistors for reading and writing data. This structure provides a balance between area efficiency and data stability, making the 6T SRAM cell ideal for cache memory in processors, where speed and reliability are critical.
 
 The basic operation of a 6T SRAM cell leverages the bistable nature of cross-coupled inverters to hold a stable logic state '0' and '1' without the need for refreshing, unlike dynamic RAM cells. When data is written, the access transistors enable the bit lines to set the state of the cell. During a read operation, these same transistors allow the stored state to be sensed on the bit lines, aided by pre-charged sense amplifiers. The design of a 6T SRAM cell allows it to retain its data as long as power is supplied, making it "static" in nature.
@@ -20,22 +22,22 @@ The design and simulation of the 6T SRAM cell is conducted in Cadence Virtuoso s
 
 SRAM CELL
 
-<img width="1332" height="752" alt="SRAM cell 6T" src="https://github.com/user-attachments/assets/98d5eb59-5dca-48a0-aecb-206615ae9005" />
+<img width="700" height="700" alt="SRAM cell 6T" src="https://github.com/user-attachments/assets/98d5eb59-5dca-48a0-aecb-206615ae9005" />
 
 
 PRECHARGE CELL
 
-<img width="753" height="757" alt="Precharge Cell" src="https://github.com/user-attachments/assets/9ac4fa2b-f575-49a6-993a-02d92470a6c6" />
+<img width="400" height="700" alt="Precharge Cell" src="https://github.com/user-attachments/assets/9ac4fa2b-f575-49a6-993a-02d92470a6c6" />
 
 
 SENSE AMPLIFIER
 
-<img width="762" height="730" alt="Sense Amplifier" src="https://github.com/user-attachments/assets/ac38cfed-a088-4a33-8316-d66b49201a26" />
+<img width="500" height="500" alt="Sense Amplifier" src="https://github.com/user-attachments/assets/ac38cfed-a088-4a33-8316-d66b49201a26" />
 
 
 COLUMN MULTIPLEXER
 
-<img width="532" height="752" alt="Column Multiplexer" src="https://github.com/user-attachments/assets/c647a096-733b-4dec-9d9c-19f9084e11f7" />
+<img width="300" height="500" alt="Column Multiplexer" src="https://github.com/user-attachments/assets/c647a096-733b-4dec-9d9c-19f9084e11f7" />
 
 
 COMPLETE SCHEMATIC
