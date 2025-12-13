@@ -53,9 +53,13 @@ COMPLETE LAYOUT
 REFERENCES
 
 [1] Y. -B. Liao, M. -H. Chiang, N. Damrongplasit, W. -C. Hsu and T. -J. K. Liu, "Design of Gate-All-Around Silicon MOSFETs for 6-T SRAM Area Efficiency and Yield," in IEEE Transactions on Electron Devices, vol. 61, no. 7, pp. 2371-2377, July 2014, doi: 10.1109/TED.2014.2323059.
+
 [2] V. Singh, S. K. Singh and R. Kapoor, "Static Noise Margin Analysis of 6T SRAM," 2020 IEEE International Conference for Innovation in Technology (INOCON), Bangluru, India, 2020, pp. 1-4, doi: 10.1109/INOCON50539.2020.9298431
+
 [3] Y. -T. Chiang and Y. -J. Chang, "A New SRAM Cell Design for Both Power and Performance Efficiency," 2009 IEEE International Workshop on Memory Technology, Design, and Testing, Hsinchu, Taiwan, 2009, pp. 13-19, doi: 10.1109/MTDT.2009.13.
+
 [4] Jan M, Rabaey, et al, Digital Integrated Circuits: A Design Perspective, Prentice Hall, 2003.
+
 [5] Neil Weste and K. Eshragian, Principles of CMOS VLSI Design: A System Perspective, Pearson Education, 2000. 
 
 
